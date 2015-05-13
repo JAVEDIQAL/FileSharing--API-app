@@ -1,0 +1,9 @@
+c:\users\engineer\documents\visual studio 2013\Projects\FileShareApp\FileSharing_Project\bin\Release\FileSharing_Project.exe.config
+c:\users\engineer\documents\visual studio 2013\Projects\FileShareApp\FileSharing_Project\obj\Release\ReClient_ServerWinforms.Form1.resources
+c:\users\engineer\documents\visual studio 2013\Projects\FileShareApp\FileSharing_Project\obj\Release\FileSharing_Project.Properties.Resources.resources
+c:\users\engineer\documents\visual studio 2013\Projects\FileShareApp\FileSharing_Project\obj\Release\FileSharing_Project.csproj.GenerateResource.Cache
+c:\users\engineer\documents\visual studio 2013\Projects\FileShareApp\FileSharing_Project\bin\Release\FileSharing_Project.exe
+c:\users\engineer\documents\visual studio 2013\Projects\FileShareApp\FileSharing_Project\bin\Release\FileSharing_Project.pdb
+c:\users\engineer\documents\visual studio 2013\Projects\FileShareApp\FileSharing_Project\obj\Release\FileSharing_Project.exe
+c:\users\engineer\documents\visual studio 2013\Projects\FileShareApp\FileSharing_Project\obj\Release\FileSharing_Project.pdb
+C:\Users\Engineer\Documents\Visual Studio 2013\Projects\FileShareApp\FileSharing_Project\obj\Release\FileSharing_Project.csprojResolveAssemblyReference.cache
